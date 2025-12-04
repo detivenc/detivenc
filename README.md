@@ -15,15 +15,9 @@ I´m a passionate Backend Developer. I love Java on his framework Spring Boot, G
 <h1 align="center"> 💻 Tech Stack </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,astro,bash,css,python,go,gradle,html,js,maven,kotlin,bun,postgres,react,spring,vue,linux,discord&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,astro,go,gradle,maven,kotlin,bun,postgres,spring,vue,linux,elixir" />
   </a>
 </p>
-
----
-
-<a href="https://app.daily.dev/detivenc"><img src="https://api.daily.dev/devcards/v2/VDWIptIheCBDEtcS2BLZH.png?type=wide&r=28y" width="652" alt="Nicolas's Dev Card"/></a>
-
----
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -33,12 +27,4 @@ I´m a passionate Backend Developer. I love Java on his framework Spring Boot, G
   <br/><br/><br/>
 </div>
 
----
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/DeTiveNC"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://app.daily.dev/detivenc"><img src="https://api.daily.dev/devcards/v2/VDWIptIheCBDEtcS2BLZH.png?type=wide&r=28y" width="652" alt="Nicolas's Dev Card"/></a>
