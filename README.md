@@ -15,7 +15,7 @@ I´m a passionate Backend Developer. I love Java on his framework Spring Boot, G
 <h1 align="center"> 💻 Tech Stack </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,astro,go,gradle,maven,kotlin,bun,postgres,spring,vue,linux,elixir" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,astro,go,gradle,maven,kotlin,bun,postgres,spring,svelte,linux" />
   </a>
 </p>
 
